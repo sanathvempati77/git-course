@@ -1,3 +1,7 @@
 Hi this is sanath !!
 
 This is a git course
+
+create a avatar for user 
+
+This is abranch 
